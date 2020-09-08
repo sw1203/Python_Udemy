@@ -41,7 +41,7 @@ def menu():
     while selection != 'q':
         if selection in user_menu:
             select_function = user_menu[selection]
-            select_function
+            select_function()
         else:
             print("잘못된 입력입니다. 다시 시도하세요.")
         selection = input(MENU_PROMPT)
