@@ -8,3 +8,4 @@ Udemy 강의 정리
 * [Section 4 (OOP, Magic Method, Inheritance, @property, @classmethod, @staticmethod)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%204.md)
 * [Section 5 (Error, try-expect-finally, try-expect-else)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%205.md)
 * [Section 6 (File, JSON, with statement, importing own files)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%206.md)
+* [Section 7](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%207.md)
