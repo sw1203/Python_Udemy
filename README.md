@@ -10,3 +10,4 @@ Udemy 강의 정리
 * [Section 6 (File, JSON, with statement, importing own files)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%206.md)
 * [Section 7](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%207.md)
 * [Section 8 (Type hinting)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%208.md)
+* [Section 9 (Generators, filter, map, any, all)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%209.md)
