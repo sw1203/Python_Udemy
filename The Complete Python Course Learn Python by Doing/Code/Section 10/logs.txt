@@ -1,0 +1,4 @@
+2020-09-14 19:56:39,382 INFO     [s10_8.py:9] This will not show up. 
+2020-09-14 19:56:39,385 WARNING  [s10_8.py:10] This will. 
+2020-09-14 19:56:39,385 DEBUG    [s10_8.py:11] This is a debug message. 
+2020-09-14 19:56:39,385 CRITICAL [s10_8.py:12] A critical error occurred. 
