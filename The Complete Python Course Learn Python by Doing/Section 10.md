@@ -32,8 +32,8 @@
     * python 3.7부터 dictionary 자체에서 삽입한 순서대로 데이터를 기억하기 때문에 유용하지 않다.
 * namedtuple 
     * 인덱스를 통해서 접근이 가능한 일반 튜플들과는 달리, 키 값으로 겁근이 가능한 형태
-    * [참고](https://excelsior-cjh.tistory.com/97)
     * class와 비슷해보이지만 custom method를 가지고 있지 않음
+    * [참고자료](https://excelsior-cjh.tistory.com/97)
 * [실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2010/s10_4.py)
 
 ## timezone
@@ -44,7 +44,6 @@
 * [실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2010/s10_6.py)
 
 ## Regular expression
-* 프로그래밍 언어가 아니라 syntax와 keyword
 * 대표적인 regex
     * `.` : anything - letters, numbers, symbols, ... but not newlines(\n)
     * `+` : one or more of
