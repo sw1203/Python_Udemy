@@ -40,6 +40,7 @@
 * [실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2010/s10_5.py)
 
 ## timeit
+* [timeit](https://shydev.tistory.com/25)
 * 프로젝트의 전체 실행시간이 아닌 특정 함수나 코드의 실행시간을 측정
 * [실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2010/s10_6.py)
 
