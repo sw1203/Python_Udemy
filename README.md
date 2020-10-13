@@ -15,3 +15,4 @@ Udemy 강의 정리
 * [Section 11 (Scraping, BeautifulSoup, requests)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%2011.md)
 * [Section 12 (Selenium)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%2012.md)
 * [Section 13 (GIL, Thread, coroutine, async, asyncio)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%2013.md)
+* [Section 17 (decorators, @functools.wraps)](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Section%2017.md)
