@@ -18,4 +18,4 @@
 
 ## Testing class
 - [Printer Class 실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2020/printer.py)
-- [test_printer 실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2020/test_print.py)
+- [test_printer 실습코드](https://github.com/sw1203/Python_Udemy/blob/master/The%20Complete%20Python%20Course%20Learn%20Python%20by%20Doing/Code/Section%2020/test_printer.py)
