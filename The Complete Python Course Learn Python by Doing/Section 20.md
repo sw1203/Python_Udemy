@@ -1,6 +1,6 @@
 # 섹션 20
 
-- [강의 제공 코드](https://www.udemy.com/course/the-complete-python-course/learn/lecture/15227268#overview)
+- [강의 제공 코드](https://github.com/tecladocode/complete-python-course/tree/master/course_contents/20_unit_testing)
 - [unittest documentation](https://docs.python.org/ko/3/library/unittest.html)
 - [참고자료](https://www.daleseo.com/python-unittest-testcase/)
 
